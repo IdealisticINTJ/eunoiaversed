@@ -8,4 +8,4 @@ Page in question: https://www.instagram.com/eunoiaversed/
 ### P0
 
 - [ ] Infinite carousel with framer-motion
-- [ ] AIKB setup (yallah pls) for personal blog to be good enough to put on Twitter to give off proper e/acc techie subtle smortie but very happening lyf energy
+- [ ] AIKB setup (yallah pls) for personal blog to be good enough to put on Twitter to give off proper e/acc techie subtle smortie but very happening lyf energy (not exactly, just emo dump)
