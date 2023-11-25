@@ -1,10 +1,10 @@
-# Eunoiaversed
+# eunoiaversed.
 
-Welcome to Eunoiaversed, my personal website where I curate Instagram writings and share peeks from my journal (on my Volume 4.3) maintained in Obsidian.
+Welcome to eunoiaversed, my personal website where I curate Instagram writings and share peeks from my journal (on my Volume 4.3) maintained in Obsidian.
 
 Page in question: https://www.instagram.com/eunoiaversed/
-## To-Do 
 
+## To-Do 
 ### P0
 
 - [ ] Infinite carousel with framer-motion
